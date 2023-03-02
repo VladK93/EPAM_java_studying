@@ -1,2 +1,4 @@
 test of git
-1111
+1111  
+third line test
+and the last one
